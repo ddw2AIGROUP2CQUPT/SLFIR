@@ -1,8 +1,8 @@
 # Sketch Less Face Image Retrieval: A New Challenge
 
-[![Demo Video](README.assets/image-20221025210019621.png)](https://www.bilibili.com/video/BV1be4y1e7WA/?share_source=copy_web&vd_source=45be87c575f6ea0ba79c79a1f35cb47e)
+https://user-images.githubusercontent.com/107622162/198173969-ab970fbb-e4f2-4510-9314-b587b6bda99a.mp4
 
-**If you can't access bilibili to watch the video in your area, you can click [Demo Video](https://youtu.be/gZfRjrY5H0Y) to access youtube video or click [Demo Video](https://github.com/ddw2AIGROUP2CQUPT/SLFIR/blob/main/demo.mp4?raw=true) to download only 80M video to watch.**
+**If you want to watch a higher quality video, you can click [Demo Video](https://youtu.be/gZfRjrY5H0Y) to access youtube video or click [Demo Video](https://github.com/ddw2AIGROUP2CQUPT/SLFIR/blob/main/demo.mp4?raw=true) to download only 80M video to watch.**
 
 **This repository is the official pytorch implementation of our paper, \*Sketch Less Face Image Retrieval: A New Challenge\*.**
 
