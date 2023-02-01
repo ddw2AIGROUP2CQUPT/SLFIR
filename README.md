@@ -19,7 +19,7 @@ https://user-images.githubusercontent.com/107622162/198173969-ab970fbb-e4f2-4510
 ## 📁Source Code
 
 **The source code for this project is in the `src` folder of the repository.**  
-**To facilitate anyone's reproduction and further study of our work, we provide the full training code and test code for stage1 and stage2 (only stage2 is included), the trained model files and the log files generated during the training process.**
+**To facilitate anyone's reproduction and further study of our work, we provide the `full training code` and `test code` for stage1 and stage2 (only stage2 is included), the `trained model files` and the `log files` generated during the training process.**
 
 ### Train
 
