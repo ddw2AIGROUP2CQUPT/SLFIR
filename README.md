@@ -60,7 +60,7 @@ To train for stage2 simply enter the following command in the terminal:
 CUDA_VISIBLE_DEVICES=0 python train.py \ 
 						--dataset_name Face-1000
 						--root_dir {your_root_proj_path}
-    					--batchsize 32
+    						--batchsize 32
 						--nTheads 4
 						--lr 5e-4
 						--max_epoch 300
@@ -91,7 +91,7 @@ To eval for stage2 simply enter the following command in the terminal:
 CUDA_VISIBLE_DEVICES=0 python train.py \ 
 						--dataset_name Face-1000
 						--root_dir {your_root_proj_path}
-    					--batchsize 32
+    						--batchsize 32
 						--nTheads 4
 						--lr 5e-4
 						--max_epoch 300
